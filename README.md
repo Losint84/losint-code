@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Losint
 - 👀 I’m interested in Discord Bots.
 - 🌱 I’m currently learning HTML, JavaScript.
-- 📫 Discord Adress: Losint#7038
+- 📫 Discord Adress: Losint#0001
